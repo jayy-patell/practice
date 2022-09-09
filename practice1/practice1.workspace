@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="practice1" Database="" Version="10000">
+  <Project Name="FindLargestNumber" Path="practice1/practice1.project" Active="No"/>
+  <Project Name="ASCIIValue" Path="ASCIIValue/ASCIIValue.project" Active="No"/>
+  <Project Name="OperationsOnTwoNumbers" Path="OperationsOnTwoNumbers/OperationsOnTwoNumbers.project" Active="No"/>
+  <Project Name="Palindrome" Path="Palindrome/Palindrome.project" Active="No"/>
+  <Project Name="PrimeNosBetween2Limits" Path="PrimeNosBetween2Limits/PrimeNosBetween2Limits.project" Active="No"/>
+  <Project Name="ArmstrongNumber" Path="ArmstrongNumber/ArmstrongNumber.project" Active="No"/>
+  <Project Name="TriangularNumbers" Path="TriangularNumbers/TriangularNumbers.project" Active="No"/>
+  <Project Name="OddEven" Path="OddEven/OddEven.project" Active="No"/>
+  <Project Name="ConvertDaysItnoYrsWeeksDays" Path="ConvertDaysItnoYrsWeeksDays/ConvertDaysItnoYrsWeeksDays.project" Active="No"/>
+  <Project Name="Floyd'sTriangle" Path="Floyd'sTriangle/Floyd'sTriangle.project" Active="No"/>
+  <Project Name="SineFunction" Path="SineFunction/SineFunction.project" Active="No"/>
+  <Project Name="GenericRoots" Path="GenericRoots/GenericRoots.project" Active="No"/>
+  <Project Name="MoneyConversion" Path="MoneyConversion/MoneyConversion.project" Active="No"/>
+  <Project Name="SumOf-N-NaturalNos" Path="SumOf-N-NaturalNos/SumOf-N-NaturalNos.project" Active="No"/>
+  <Project Name="BubbleSortinginArray" Path="BubbleSortinginArray/BubbleSortinginArray.project" Active="No"/>
+  <Project Name="PerfectNumber" Path="PerfectNumber/PerfectNumber.project" Active="No"/>
+  <Project Name="RootsOfQuadEq" Path="RootsOfQuadEq/RootsOfQuadEq.project" Active="No"/>
+  <Project Name="PrintAllPrimeNumInArray" Path="PrintAllPrimeNumInArray/PrintAllPrimeNumInArray.project" Active="No"/>
+  <Project Name="MultiplicationTable" Path="MultiplicationTable/MultiplicationTable.project" Active="No"/>
+  <Project Name="LargestSmallestInArray" Path="LargestSmallestInArray/LargestSmallestInArray.project" Active="No"/>
+  <Project Name="InsertElementInArray" Path="InsertElementInArray/InsertElementInArray.project" Active="No"/>
+  <Project Name="DeleteElementInArray" Path="DeleteElementInArray/DeleteElementInArray.project" Active="No"/>
+  <Project Name="TraceandNormOfMatrix" Path="TraceandNormOfMatrix/TraceandNormOfMatrix.project" Active="No"/>
+  <Project Name="TransposeOfMatrix" Path="TransposeOfMatrix/TransposeOfMatrix.project" Active="No"/>
+  <Project Name="SymmetricMatrix" Path="SymmetricMatrix/SymmetricMatrix.project" Active="No"/>
+  <Project Name="InterchangingDiagonalsInMatrix" Path="InterchangingDiagonalsInMatrix/InterchangingDiagonalsInMatrix.project" Active="No"/>
+  <Project Name="Fibonacci" Path="Fibonacci/Fibonacci.project" Active="No"/>
+  <Project Name="ReverseAnArray" Path="ReverseAnArray/ReverseAnArray.project" Active="No"/>
+  <Project Name="LinearSearch" Path="LinearSearchInArray/LinearSearchInArray.project" Active="No"/>
+  <Project Name="SelectionSort" Path="SelectionSort/SelectionSort.project" Active="No"/>
+  <Project Name="ToggleChar" Path="ToggleChar/ToggleChar.project" Active="No"/>
+  <Project Name="NumOfWords" Path="NumOfWords/NumOfWords.project" Active="No"/>
+  <Project Name="ArrayMultiplication" Path="ArrayMultiplication/ArrayMultiplication.project" Active="Yes"/>
+  <Project Name="RowSumandColumnSumInMatrix" Path="RowSumandColumnSumInMatrix/RowSumandColumnSumInMatrix.project" Active="No"/>
+  <Project Name="MagicSquare" Path="MagicSquare/MagicSquare.project" Active="No"/>
+  <Project Name="Functions" Path="Functions/Functions.project" Active="No"/>
+  <Project Name="ConvertBinaryToDecimal" Path="ConvertBinaryToDecimal/ConvertBinaryToDecimal.project" Active="No"/>
+  <Project Name="RemoveSpacesFromString" Path="RemoveSpacesFromString/RemoveSpacesFromString.project" Active="No"/>
+  <Project Name="BinarySearch" Path="BinarySearch/BinarySearch.project" Active="No"/>
+  <Project Name="SecondLargestElement" Path="SecondLargestElement/SecondLargestElement.project"/>
+  <Project Name="SparseMatrix" Path="SparseMatrix/SparseMatrix.project"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug">
+      <Environment/>
+      <Project Name="FindLargestNumber" ConfigName="Debug"/>
+      <Project Name="ASCIIValue" ConfigName="Debug"/>
+      <Project Name="OperationsOnTwoNumbers" ConfigName="Debug"/>
+      <Project Name="Palindrome" ConfigName="Debug"/>
+      <Project Name="PrimeNosBetween2Limits" ConfigName="Debug"/>
+      <Project Name="ArmstrongNumber" ConfigName="Debug"/>
+      <Project Name="TriangularNumbers" ConfigName="Debug"/>
+      <Project Name="OddEven" ConfigName="Debug"/>
+      <Project Name="ConvertDaysItnoYrsWeeksDays" ConfigName="Debug"/>
+      <Project Name="Floyd'sTriangle" ConfigName="Debug"/>
+      <Project Name="SineFunction" ConfigName="Debug"/>
+      <Project Name="GenericRoots" ConfigName="Debug"/>
+      <Project Name="MoneyConversion" ConfigName="Debug"/>
+      <Project Name="SumOf-N-NaturalNos" ConfigName="Debug"/>
+      <Project Name="BubbleSortinginArray" ConfigName="Debug"/>
+      <Project Name="PerfectNumber" ConfigName="Debug"/>
+      <Project Name="RootsOfQuadEq" ConfigName="Debug"/>
+      <Project Name="PrintAllPrimeNumInArray" ConfigName="Debug"/>
+      <Project Name="MultiplicationTable" ConfigName="Debug"/>
+      <Project Name="LargestSmallestInArray" ConfigName="Debug"/>
+      <Project Name="InsertElementInArray" ConfigName="Debug"/>
+      <Project Name="DeleteElementInArray" ConfigName="Debug"/>
+      <Project Name="TraceandNormOfMatrix" ConfigName="Debug"/>
+      <Project Name="TransposeOfMatrix" ConfigName="Debug"/>
+      <Project Name="SymmetricMatrix" ConfigName="Debug"/>
+      <Project Name="InterchangingDiagonalsInMatrix" ConfigName="Debug"/>
+      <Project Name="Fibonacci" ConfigName="Debug"/>
+      <Project Name="ReverseAnArray" ConfigName="Debug"/>
+      <Project Name="LinearSearch" ConfigName="Debug"/>
+      <Project Name="SelectionSort" ConfigName="Debug"/>
+      <Project Name="ToggleChar" ConfigName="Debug"/>
+      <Project Name="NumOfWords" ConfigName="Debug"/>
+      <Project Name="NumOfWords" ConfigName="Debug"/>
+      <Project Name="No.OfWordsInSentence" ConfigName="Debug"/>
+      <Project Name="ArrayMultiplication" ConfigName="Debug"/>
+      <Project Name="RowSumandColumnSumInMatrix" ConfigName="Debug"/>
+      <Project Name="MagicSquare" ConfigName="Debug"/>
+      <Project Name="Functions" ConfigName="Debug"/>
+      <Project Name="ConvertBinaryToDecimal" ConfigName="Debug"/>
+      <Project Name="RemoveSpacesFromString" ConfigName="Debug"/>
+      <Project Name="BinarySearch" ConfigName="Debug"/>
+      <Project Name="SecondLargestElement" ConfigName="Debug"/>
+      <Project Name="SparseMatrix" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release">
+      <Environment/>
+      <Project Name="FindLargestNumber" ConfigName="Release"/>
+      <Project Name="ASCIIValue" ConfigName="Release"/>
+      <Project Name="OperationsOnTwoNumbers" ConfigName="Release"/>
+      <Project Name="Palindrome" ConfigName="Release"/>
+      <Project Name="PrimeNosBetween2Limits" ConfigName="Release"/>
+      <Project Name="ArmstrongNumber" ConfigName="Release"/>
+      <Project Name="TriangularNumbers" ConfigName="Release"/>
+      <Project Name="OddEven" ConfigName="Release"/>
+      <Project Name="ConvertDaysItnoYrsWeeksDays" ConfigName="Release"/>
+      <Project Name="Floyd'sTriangle" ConfigName="Release"/>
+      <Project Name="SineFunction" ConfigName="Release"/>
+      <Project Name="GenericRoots" ConfigName="Release"/>
+      <Project Name="MoneyConversion" ConfigName="Release"/>
+      <Project Name="SumOf-N-NaturalNos" ConfigName="Release"/>
+      <Project Name="BubbleSortinginArray" ConfigName="Release"/>
+      <Project Name="PerfectNumber" ConfigName="Release"/>
+      <Project Name="RootsOfQuadEq" ConfigName="Release"/>
+      <Project Name="PrintAllPrimeNumInArray" ConfigName="Release"/>
+      <Project Name="MultiplicationTable" ConfigName="Release"/>
+      <Project Name="LargestSmallestInArray" ConfigName="Release"/>
+      <Project Name="InsertElementInArray" ConfigName="Release"/>
+      <Project Name="DeleteElementInArray" ConfigName="Release"/>
+      <Project Name="TraceandNormOfMatrix" ConfigName="Release"/>
+      <Project Name="TransposeOfMatrix" ConfigName="Release"/>
+      <Project Name="SymmetricMatrix" ConfigName="Release"/>
+      <Project Name="InterchangingDiagonalsInMatrix" ConfigName="Release"/>
+      <Project Name="Fibonacci" ConfigName="Release"/>
+      <Project Name="ReverseAnArray" ConfigName="Release"/>
+      <Project Name="LinearSearch" ConfigName="Release"/>
+      <Project Name="SelectionSort" ConfigName="Release"/>
+      <Project Name="ToggleChar" ConfigName="Release"/>
+      <Project Name="NumOfWords" ConfigName="Release"/>
+      <Project Name="NumOfWords" ConfigName="Release"/>
+      <Project Name="No.OfWordsInSentence" ConfigName="Release"/>
+      <Project Name="ArrayMultiplication" ConfigName="Release"/>
+      <Project Name="RowSumandColumnSumInMatrix" ConfigName="Release"/>
+      <Project Name="MagicSquare" ConfigName="Release"/>
+      <Project Name="Functions" ConfigName="Release"/>
+      <Project Name="ConvertBinaryToDecimal" ConfigName="Release"/>
+      <Project Name="RemoveSpacesFromString" ConfigName="Release"/>
+      <Project Name="BinarySearch" ConfigName="Release"/>
+      <Project Name="SecondLargestElement" ConfigName="Release"/>
+      <Project Name="SparseMatrix" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
