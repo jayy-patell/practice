@@ -8,9 +8,9 @@ void secLarge(int a[], int n){
 			lrg=a[i];
 		}
 		
-		// if (a[i] > lrg2 && a[i] != lrg) {
-        //     lrg2 = a[i];
-		// }
+		else if (a[i] > lrg2 && a[i] != lrg) {
+            lrg2 = a[i];
+		}
 	}
 	if(lrg==lrg2){
 		printf("There is no second largest number.");
