@@ -38,7 +38,6 @@
   <Project Name="ConvertBinaryToDecimal" Path="ConvertBinaryToDecimal/ConvertBinaryToDecimal.project" Active="No"/>
   <Project Name="RemoveSpacesFromString" Path="RemoveSpacesFromString/RemoveSpacesFromString.project" Active="No"/>
   <Project Name="BinarySearch" Path="BinarySearch/BinarySearch.project" Active="No"/>
-  <Project Name="SecondLargestElement" Path="SecondLargestElement/SecondLargestElement.project" Active="No"/>
   <Project Name="SparseMatrix" Path="SparseMatrix/SparseMatrix.project" Active="No"/>
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug">

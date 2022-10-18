@@ -8,7 +8,6 @@ C:\Users\jayyp\Documents\practice\practice1\Functions\main.cpp
 C:\Users\jayyp\Documents\practice\practice1\SumOf-N-NaturalNos\main.cpp
 C:\Users\jayyp\Documents\practice\practice1\MoneyConversion\main.cpp
 C:\Users\jayyp\Documents\practice\practice1\GenericRoots\main.cpp
-C:\Users\jayyp\Documents\practice\practice1\SecondLargestElement\main.cpp
 C:\Users\jayyp\Documents\practice\practice1\SineFunction\main.cpp
 C:\Users\jayyp\Documents\practice\practice1\TraceandNormOfMatrix\main.cpp
 C:\Users\jayyp\Documents\practice\practice1\SparseMatrix\main.cpp
